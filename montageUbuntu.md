@@ -1,6 +1,8 @@
 [Ébauche de tutoriel]
 
 # Création de vidéos pour la classe inversée sur Ubuntu
+
+#### Les étapes à suivre.
 Voici les étapes que nous allons suivre:
 - Créer l'exposé avec les animations sur LibreOffice. 
 - Enregistrer la bande-son de l'exposé.
