@@ -42,3 +42,6 @@ Dans Flowblade créer un nouveau projet avec comme profil HD 720 24 fps, une ban
 
 #### Conseil final.
 La vidéo peut être assez volumineuse, il suffit de l'importer dans YouTube en vidéo non répertoriée et de la télécharger depuis YouTube pour obtenir une vidéo très légère dont l'encodage fonctionne bien avec Moodle. 
+
+#### Avantage comparé à une autre méthode
+Lorsqu'une erreur se glisse sur un slide ou dans la bande-son, la correction est très aisée.
