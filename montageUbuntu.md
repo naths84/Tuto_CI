@@ -21,7 +21,7 @@ Utiliser une application sur son smartphone ou bien sur l'ordinateur pour enregi
 LibreOffice ne permet pas d'exporter un PDF qui affiche le contenu en fonction de l'ordre des animations. La seule option disponible est l'exportation du PDF dans lequel chaque page représente une slide de l'exposé avec tout son contenu. Il faut installer l'extension [ExpandAnimations](https://www.monperrus.net/martin/export+animations+to+pdf+in+libreoffice-openoffice) dans LibreOffice (c.f. [comment installer une extension](https://wiki.documentfoundation.org/Documentation/HowTo/install_extension)) pour remédier à cela. Une fois l'extension installée, aller sur l'onglet Outils->Extensions (ou Add-Ons) et cliquer sur Expand Animations pour créer le PDF.
 
 #### Une image par page.
-Afin de générer une image par page, il faut ouvrir un terminal dans le dossier dans lequel se trouve le PDF et exécuter la commande suivante. Elle exécute le package pdftoppm disponible sur Ubunut.
+Afin de générer une image par page, ouvrir un terminal dans le dossier dans lequel se trouve le PDF et exécuter la commande suivante. Elle exécute le package pdftoppm disponible sur Ubuntu.
 
 ```sh
 $ pdftoppm nomDuPDF.pdf prefixe_image -r 300 -png
@@ -40,7 +40,7 @@ imagePresentation3.png
 ...
 #### Monter la vidéo dans Flowblade.
 
-Dans Flowblade créer un nouveau projet avec comme profil HD 720 24 fps, une bande-son et une bande vidéo. Importer les images générées au point précédent dans Flowblade (la fonction drag and drop fonctionne) et les fichiers sons. Ajouter les fichiers son à la suite dans la piste son et ensuite les images en les synchronisant avec la bande son. Enregistrer un backup snapshot du projet Fichier->Save Backup Snapshot. Puis finalement aller à l'onglet rendu et générer le rendu du projet. 
+Installer et lancer Flowblade, créer un nouveau projet avec comme profil HD 720 24 fps, une bande-son et une bande vidéo. Importer les images générées au point précédent dans la partie médias (la fonction drag and drop fonctionne) et les fichiers sons. Ajouter les fichiers son à la suite dans la piste son et ensuite les images en les synchronisant avec la bande son. Enregistrer un backup snapshot du projet Fichier->Save Backup Snapshot. Puis finalement aller à l'onglet rendu et générer le rendu du projet. 
 
 #### Conseil final.
 La vidéo peut être assez volumineuse, il suffit de l'importer dans YouTube en vidéo non répertoriée et de la télécharger depuis YouTube pour obtenir une vidéo très légère dont l'encodage fonctionne bien avec Moodle. 
