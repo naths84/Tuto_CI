@@ -21,7 +21,7 @@ Le type de questions que nous avons vu dans la vidéo s'appelle des questions Cl
 
 Pour comprendre la syntaxe d'une question Cloze, il faut aller dans Moodle dans la banque de question, créer une question et ensuite l'exporter au format XML Moodle. Cela permet de comprendre la syntaxe que Moodle souhaite recevoir pour ce type de questions. Nous générons un nombre donné de questions basé sur cette syntaxe, puis nous les importons dans Moodle qui les reconnait.
 
-###Prérequis
+### Prérequis
 Pour cela vous devrez pouvoir coder dans un langage de programmation (on a choisi Python, ne vous inquiétez pas le code est très basique) et pour écrire des maths, connaître la syntaxe basique de LaTex. 
 
 ### Exemple des fractions
