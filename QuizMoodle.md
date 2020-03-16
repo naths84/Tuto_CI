@@ -5,7 +5,9 @@
 Chaque question peut être créée individuellement, par exemple pour du vocabulaire en langue ou bien des questions de compréhension. Dans ce cas, je recommande vivement de vous orienter vers la documentation déjà existante: 
 
 [Description générale](https://docs.moodle.org/3x/fr/Active_Quiz)
+
 [Quiz module](https://docs.moodle.org/25/en/Quiz_module)
+
 [Tutoriel vidéo](https://www.youtube.com/watch?v=GqIECZJD4fE)
 
 Les quiz Moodle sont un super moyen de mener des évaluations formatives, car vous obtenez ensuite un rapport détaillé de la performance de chaque élève.
