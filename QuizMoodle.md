@@ -11,22 +11,22 @@ Chaque question peut être créée individuellement, par exemple pour du vocabul
 Les quiz Moodle sont un super moyen de mener des évaluations formatives, car vous obtenez ensuite un rapport détaillé de la performance de chaque élève.
 
 ## Partagez!
-Ce qu'il y a d'intéressant avec les ressources Moodle, c'est qu'elle peuvent être facilement partagée. Donc au lieu de créer du contenu chacun de son côté, mettez-vous par groupe, informez et partagez vos ressources avec vos collègues.
+Ce qu'il y a d'intéressant avec les ressources Moodle, c'est qu'elles peuvent être facilement partagées. Donc au lieu de créer du contenu chacun de son côté, mettez-vous par groupe, informez et partagez vos ressources avec vos collègues.
 
 ## Création de quiz générés aléatoirement
 
-Le type de questions que nous avons vu dans la vidéo s'appelle des question Cloze ([Ici pour plus d'info](https://docs.moodle.org/19/fr/Question_Cloze_%C3%A0_r%C3%A9ponses_int%C3%A9gr%C3%A9s)). 
+Le type de questions que nous avons vu dans la vidéo s'appelle des questions Cloze ([Ici pour plus d'info](https://docs.moodle.org/19/fr/Question_Cloze_%C3%A0_r%C3%A9ponses_int%C3%A9gr%C3%A9s)). 
 
 Pour comprendre la syntaxe d'une question Cloze, il faut aller dans Moodle dans la banque de question, créer une question et ensuite l'exporter au format XML Moodle. Cela permet de comprendre la syntaxe que Moodle souhaite recevoir pour ce type de questions. Nous générons un nombre donné de questions basé sur cette syntaxe, puis nous les importons dans Moodle qui les reconnait.
 
 ###Prérequis
-Pour cela vous devrez pouvoir coder dans un langage de programmation (on a choisit Python, ne vous inquiétez pas le code est très basique) et pour écrire des maths, connaître la syntaxe basique de LaTex. 
+Pour cela vous devrez pouvoir coder dans un langage de programmation (on a choisi Python, ne vous inquiétez pas le code est très basique) et pour écrire des maths, connaître la syntaxe basique de LaTex. 
 
 ### Exemple des fractions
 
 #### Décortiquer la question
 
-Je ne m'y connais pas bien en html ni en Python, donc excusez s'il vous plaît la qualité du code, il fait l'affaire. 
+Je ne m'y connais pas bien en HTML ni en Python, donc excusez s'il vous plaît la qualité du code, il fait l'affaire. 
 
 Voici un exemple d'une question que nous avons vu dans la vidéo. 
 
